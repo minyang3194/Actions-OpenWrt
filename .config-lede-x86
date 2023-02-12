@@ -739,11 +739,3 @@ CONFIG_LIBMBEDTLS_DEBUG_C is not set
 CONFIG_PACKAGE_attr=y
 CONFIG_PACKAGE_dbus=y
 CONFIG_PACKAGE_iptables-mod-ipsec=y
-CONFIG_PACKAGE_kmod-ipt-ipsec=y
-CONFIG_PACKAGE_libdaemon=y
-CONFIG_PACKAGE_libdbus=y
-CONFIG_PACKAGE_libmbedtls=y
-CONFIG_PACKAGE_libtasn1=y
-CONFIG_PACKAGE_libtirpc=y
-CONFIG_PACKAGE_liburing=y
-CONFIG_PACKAGE_wsdd2=y
